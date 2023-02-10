@@ -35,7 +35,7 @@ public class MainTest {
 
         assertEquals(1, constructors, "Je Car class moet 1 constructor met 5 parameters hebben, maar heeft nu " + constructors + " constructors die 5 parameters hebben");
 
-        assertEquals(outputStream.toString(), "Deze Toyota Aygo is blauw" + System.lineSeparator() + "Deze Fiat 500 is groen" + System.lineSeparator());
+        assertEquals(outputStream.toString(), "Deze Toyota Aygo is blauw" + System.lineSeparator() + "Deze Fiat 500 is groen" + System.lineSeparator() + "Deze Volvo CX90 is zwart" + System.lineSeparator());
     }
 
 
