@@ -80,6 +80,5 @@ _Tip:_ je roept een methode op een class als volgt aan:
 
 ## Bonusopdracht
 
-Geef de auto een extra veld genaamd "bestuurder" van type "Bestuurder". 
-Zorg dat een Bestuurder een naam en een rijbewijsnummer heeft. 
-Je mag zelf weten van welk type deze twee zijn.
+* Geef de auto een extra veld genaamd "bestuurder" van type "Bestuurder".
+* Zorg dat een Bestuurder een naam en een rijbewijsnummer heeft. Je mag zelf weten van welk type deze twee zijn!
